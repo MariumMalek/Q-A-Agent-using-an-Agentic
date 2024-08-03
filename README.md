@@ -7,3 +7,7 @@ A Question and Answer (Q&amp;A) system using an agentic framework - Autogen to i
 content from the Wikipedia page on 
 Bangladesh(https://en.wikipedia.org/wiki/Bangladesh).
 
+
+
+https://github.com/user-attachments/assets/32ebc74b-7da3-43e6-8003-a63e508ad930
+
