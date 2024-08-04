@@ -1,5 +1,5 @@
 # QA-Agent-using-an-Agentic framework
-A Question and Answer (Q&amp;A) system using an agentic framework - Autogen to interact with and answer questions about the content from the Wikipedia  page on Bangladesh(https://en.wikipedia.org/wiki/Bangladesh).
+A Question and Answer (Q&amp;A) system using an agentic framework - CrewAI to interact with and answer questions about the content from the Wikipedia  page on Bangladesh(https://en.wikipedia.org/wiki/Bangladesh).
 
 
 1. Framework : CrewAI
